@@ -63,4 +63,4 @@ for (let i = 2; i < 10; i++) {
 console.log(`Los primeros 10 números de Fibonacci son: ${fibonacci.join(', ')}`);
 
 // 10. Dado un array de números, usa un bucle para crear un nuevo array que contenga solo los números mayores a 10
-let
+
